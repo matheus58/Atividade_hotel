@@ -1,8 +1,8 @@
 # Atividade_hotel
 
-## Tutorial: Como integrar as branches no projeto
+## Tutorial: como fazer funcionar o projeto
 
-Após clonar o repositório, siga estes passos para garantir que o projeto funcione corretamente:
+Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes passos para garantir que o projeto funcione corretamente:
 
 1. Após o processo de clone, é possível que o arquivo 'JRE System Library' não apareça automaticamente. Para corrigir isso, clique com o botão direito na pasta "SRC" e selecione "Build Path" > "Configure Build Path".
 
