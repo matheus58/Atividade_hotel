@@ -12,6 +12,7 @@ Após clonar o repositório, siga estes passos para garantir que o projeto funci
 
     ![Passo 2](https://github.com/matheus58/Atividade_hotel/assets/101297032/3192fbe8-a724-4d8c-943f-2da8cfdf7405)
 
+## Como dar merge
 Além disso, para integrar as mudanças de diferentes branches em seu projeto, você pode seguir este guia:
 
 1. Verificar a branch atual: Use o comando `git branch` para verificar em qual branch você está trabalhando atualmente.
