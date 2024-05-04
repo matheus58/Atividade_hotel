@@ -31,7 +31,7 @@ public class Main02 {
         	String nome  =  "Hospede_"+i;
             Hospede hospede = new Hospede(hotel ,nome );
             Thread threadHospede = new Thread(hospede);
-            System.out.println("Hospede:" +  hospede.getNome());
+//            System.out.println("Hospede:" +  hospede.getNome());
             hospedes.add(threadHospede);
         }
         for (Thread hospede : hospedes) {
