@@ -27,18 +27,17 @@ public class Main02 {
 
         // Cria e inicia threads para os hóspedes
         List<Thread> hospedes = new ArrayList<>();
-        for (int i = 1; i <= 11; i++) { // 50 hóspedes
+        for (int i = 1; i <= 50; i++) { // 50 hóspedes
         	String nome  =  "Hospede_"+i;
             Hospede hospede = new Hospede(hotel ,nome );
             Thread threadHospede = new Thread(hospede);
-            System.out.println("Hospede:" +  hospede.getNome());
             hospedes.add(threadHospede);
         }
         for (Thread hospede : hospedes) {
             hospede.start();
         }
-       hotel.incrementarNumeroHospedes();
-       //hotel.temQuartosParaLimpar();
+        
+
     }
 
 }

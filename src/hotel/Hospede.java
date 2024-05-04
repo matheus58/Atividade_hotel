@@ -28,12 +28,13 @@ public class Hospede extends Thread{
 			}
 			// Quando a vaga esta disponivel, o cliente reserva a vaga  e entra no hotel 
 			vagaDisponovel = true;
+			System.out.println("cliente "+ this.getNome() +"entrou no quarto ");
 			hotel.incrementarNumeroHospedes();// Incrementa o numeros de hospedes no hotel
 		}
 		
 		// Apos reservar a vaga, o cliente permanece no quarto por um periodo de tempo (simulado)
 		try {
-			Thread.sleep(2000); // Simula o cliente no quarto por 2 segundos 
+			Thread.sleep(1000); // Simula o cliente no quarto por 2 segundos 
 		} catch (InterruptedException e) {
 			// TODO: handle exception
 			e.printStackTrace();
@@ -41,6 +42,7 @@ public class Hospede extends Thread{
 		// Quando o cliente sai do quarto, ele notifica o hotel e libera o monitor 
 		synchronized (hotel) {
 			hotel.decrementarNumeroHospedes(); //Decrementa o numero de hospedes no hotel 
+			System.out.println("cliente "+ this.getNome() +"saio do quarto");
 			hotel.notify(); // Notifica a camareira que o quarto esta disponivel para limpeza 
 		}	
 	}

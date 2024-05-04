@@ -87,6 +87,7 @@ public class Recepcionistas extends Thread {
 			System.out.println("Não pode alugar!");
 		}
 	}
+	
     public static Quartos encontrarQuartoDisponivel(List<Quartos> quartos) {
         for (Quartos quarto : quartos) {
             if (!quarto.isOcupado()) {
