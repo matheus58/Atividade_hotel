@@ -28,7 +28,7 @@ public class Hospede extends Thread{
 			}
 			// Quando a vaga esta disponivel, o cliente reserva a vaga  e entra no hotel 
 			vagaDisponovel = true;
-			System.out.println("cliente "+ this.getNome() +"entrou no quarto ");
+			System.out.println("Hospede "+ this.getNome() +"entrou no quarto ");
 			hotel.incrementarNumeroHospedes();// Incrementa o numeros de hospedes no hotel
 		}
 		
