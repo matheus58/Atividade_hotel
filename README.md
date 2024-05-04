@@ -2,6 +2,9 @@
 
 ## Tutorial: como fazer funcionar o projeto
 
+[AT3_N1 - Atividade prática coletiva 1.pdf](https://github.com/matheus58/Atividade_hotel/files/15210769/AT3_N1.-.Atividade.pratica.coletiva.1.pdf)
+
+
 Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes passos para garantir que o projeto funcione corretamente:
 
 1. Após o processo de clone, é possível que o arquivo 'JRE System Library' não apareça automaticamente. Para corrigir isso, clique com o botão direito na pasta "SRC" e selecione "Build Path" > "Configure Build Path".
