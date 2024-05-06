@@ -11,8 +11,6 @@ Este projeto foi desenvolvido como parte da disciplina de Programação Concorre
 - [O que cada classe faz](#o-que-cada-classe-faz)
 - [Colaboradores](#colaboradores)
 
-![Passos para configurar o projeto](https://github.com/matheus58/Atividade_hotel/assets/101297032/5e85e3bd-5508-4e65-ad3a-c26467200579)
-
 ## Tutorial: como fazer funcionar o projeto
 
 [PDF da Atividade prática coletiva 1](https://github.com/matheus58/Atividade_hotel/files/15210769/AT3_N1.-.Atividade.pratica.coletiva.1.pdf)
