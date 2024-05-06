@@ -32,9 +32,11 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 ## O que cada classe faz
 
-- `Classe1`: Descrição do que a Classe1 faz.
-- `Classe2`: Descrição do que a Classe2 faz.
-- `Classe3`: Descrição do que a Classe3 faz.
+- `Hospedes`: Descrição do que a Classe1 faz.
+- `Camareiras`: Descrição do que a Classe2 faz.
+- `Quartos`: Descrição do que a Classe3 faz.
+- `Recepicionistas`
+- `Main`
 
 ## Colaboradores
 
