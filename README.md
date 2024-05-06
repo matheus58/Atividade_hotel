@@ -1,5 +1,18 @@
 # Atividade_hotel
 
+## Descrição
+
+Este projeto foi desenvolvido como parte da disciplina de Programação Concorrente e Distribuída, com o objetivo de obter nota na atividade prática coletiva 1. O projeto consiste em [descreva brevemente o objetivo do projeto].
+
+## Sumário
+
+- [Tutorial: como fazer funcionar o projeto](#tutorial-como-fazer-funcionar-o-projeto)
+- [IDE e Versão Java](#ide-e-versão-java)
+- [O que cada classe faz](#o-que-cada-classe-faz)
+- [Colaboradores](#colaboradores)
+
+![Passos para configurar o projeto](https://github.com/matheus58/Atividade_hotel/assets/101297032/5e85e3bd-5508-4e65-ad3a-c26467200579)
+
 ## Tutorial: como fazer funcionar o projeto
 
 [PDF da Atividade prática coletiva 1](https://github.com/matheus58/Atividade_hotel/files/15210769/AT3_N1.-.Atividade.pratica.coletiva.1.pdf)
