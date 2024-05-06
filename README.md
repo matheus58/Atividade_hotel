@@ -38,6 +38,8 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 ## Colaboradores
 
-- Nome Completo 1 (Matrícula: XXXXXX) ![Nome do Colaborador 1](https://github.com/link-do-colaborador-1)
-- Nome Completo 2 (Matrícula: XXXXXX) ![Nome do Colaborador 2](https://github.com/link-do-colaborador-2)
-- Nome Completo 3 (Matrícula: XXXXXX) ![Nome do Colaborador 3](https://github.com/link-do-colaborador-3)
+- Maria Clara Fernandes Rangel (Matrícula: UC22102645) ![Nome do Colaborador 1](https://github.com/MariRangel04)
+- Gustavo Horestee Santos Barros (Matrícula: UC22102459) ![Nome do Colaborador 2](https://github.com/GustavoHoreste)
+- Pedro Henrique Oliveira Marques (Matrícula: UC22103216) ![Nome do Colaborador 3](https://github.com/phxdablio)
+- Pedro Henrique Oliveira Marques (Matrícula: UC22103216) ![Nome do Colaborador 4](https://github.com/phxdablio)
+- Pedro Henrique Oliveira Marques (Matrícula: UC22103216) ![Nome do Colaborador 4](https://github.com/phxdablio)
