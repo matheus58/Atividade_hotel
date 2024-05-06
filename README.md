@@ -14,8 +14,19 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
     ![Passo 2](https://github.com/matheus58/Atividade_hotel/assets/101297032/3192fbe8-a724-4d8c-943f-2da8cfdf7405)
 
+## IDE e Versão Java
+
+- IDE: Eclipse
+- Versão Java: 17
+
+## O que cada classe faz
+
+- `Classe1`: Descrição do que a Classe1 faz.
+- `Classe2`: Descrição do que a Classe2 faz.
+- `Classe3`: Descrição do que a Classe3 faz.
+
 ## Colaboradores
 
-- [Nome do Colaborador 1](https://github.com/link-do-colaborador-1)
-- [Nome do Colaborador 2](https://github.com/link-do-colaborador-2)
-- [Nome do Colaborador 3](https://github.com/link-do-colaborador-3)
+- Nome Completo 1 (Matrícula: XXXXXX) - [GitHub](https://github.com/link-do-colaborador-1)
+- Nome Completo 2 (Matrícula: XXXXXX) - [GitHub](https://github.com/link-do-colaborador-2)
+- Nome Completo 3 (Matrícula: XXXXXX) - [GitHub](https://github.com/link-do-colaborador-3)
