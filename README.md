@@ -32,10 +32,10 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 ## O que cada classe faz
 
-- `Hospedes`: Descrição do que a Classe1 faz.
-- `Camareiras`: Descrição do que a Classe2 faz.
-- `Quartos`: Descrição do que a Classe3 faz.
-- `Recepicionistas`
+- `Hospedes`: Cria e gerencia o hospede 
+- `Camareiras`: Responsavel por criar um Thread
+- `Quartos`: Cria, gerencia os quartos e gerencia as pessoas dentro pertencentes aquela Instância.
+- `Recepicionistas`: Responsavel por iniciar todo o fluxo do sistema
 - `Main`
 
 ## Colaboradores
