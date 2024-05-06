@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte da disciplina de Programação Concorrente e Distribuída, com o objetivo de obter nota na atividade prática coletiva 1. O projeto consiste em [descreva brevemente o objetivo do projeto].
+Este projeto foi desenvolvido como parte da disciplina de Programação Concorrente e Distribuída, para a obtenção de nota na atividade prática coletiva 1. O objetivo é criar um sistema em Java 17 que simule um sistema de reserva e controle de quartos em um hotel, utilizando threads. O sistema deve representar várias entidades, incluindo quartos, hóspedes, camareiras e recepcionistas, e seguir uma série de regras, como alocação de hóspedes em quartos vagos, capacidade máxima de quartos, limpeza dos quartos após a saída dos hóspedes, entre outras.
 
 ## Sumário
 
@@ -40,6 +40,6 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 ## Colaboradores
 
-- Nome Completo 1 (Matrícula: XXXXXX) - [GitHub](https://github.com/link-do-colaborador-1)
-- Nome Completo 2 (Matrícula: XXXXXX) - [GitHub](https://github.com/link-do-colaborador-2)
-- Nome Completo 3 (Matrícula: XXXXXX) - [GitHub](https://github.com/link-do-colaborador-3)
+- Nome Completo 1 (Matrícula: XXXXXX) ![Nome do Colaborador 1](https://github.com/link-do-colaborador-1)
+- Nome Completo 2 (Matrícula: XXXXXX) ![Nome do Colaborador 2](https://github.com/link-do-colaborador-2)
+- Nome Completo 3 (Matrícula: XXXXXX) ![Nome do Colaborador 3](https://github.com/link-do-colaborador-3)
