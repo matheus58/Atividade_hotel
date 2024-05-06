@@ -41,5 +41,5 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 - Maria Clara Fernandes Rangel (Matrícula: UC22102645) ![Nome do Colaborador 1](https://github.com/MariRangel04)
 - Gustavo Horestee Santos Barros (Matrícula: UC22102459) ![Nome do Colaborador 2](https://github.com/GustavoHoreste)
 - Pedro Henrique Oliveira Marques (Matrícula: UC22103216) ![Nome do Colaborador 3](https://github.com/phxdablio)
-- Pedro Henrique Oliveira Marques (Matrícula: UC22103216) ![Nome do Colaborador 4](https://github.com/phxdablio)
-- Pedro Henrique Oliveira Marques (Matrícula: UC22103216) ![Nome do Colaborador 4](https://github.com/phxdablio)
+- Matheus (Matrícula: UC00000) ![Nome do Colaborador 4](https://github.com/matheus58)
+- Nathalia (Matrícula: UC111111) ![Nome do Colaborador 4](https://github.com/nathi-gs)
