@@ -19,11 +19,11 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 1. Após o processo de clone, é possível que o arquivo 'JRE System Library' não apareça automaticamente. Para corrigir isso, clique com o botão direito na pasta "SRC" e selecione "Build Path" > "Configure Build Path".
 
-    ![Passo 1](https://github.com/matheus58/Atividade_hotel/assets/101297032/5e85e3bd-5508-4e65-ad3a-c26467200579)
+    <img src="https://github.com/matheus58/Atividade_hotel/assets/101297032/5e85e3bd-5508-4e65-ad3a-c26467200579" alt="Passo 1" width="300"/>
 
 2. Na janela que se abre, certifique-se de que a opção "JRE System" esteja ativada. Em seguida, clique em "Apply and Close".
 
-    ![Passo 2](https://github.com/matheus58/Atividade_hotel/assets/101297032/3192fbe8-a724-4d8c-943f-2da8cfdf7405)
+    <img src="https://github.com/matheus58/Atividade_hotel/assets/101297032/3192fbe8-a724-4d8c-943f-2da8cfdf7405" alt="Passo 2" width="300"/>
 
 ## IDE e Versão Java
 
@@ -38,9 +38,13 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 ## Colaboradores
 
-- # Maria Clara Fernandes Rangel (Matrícula: UC22102645) [![Maria Clara Fernandes Rangel](https://avatars.githubusercontent.com/MariRangel04?s=100)](https://github.com/MariRangel04)
-- # Gustavo Horestee Santos Barros (Matrícula: UC22102459) [![Gustavo Horestee Santos Barros](https://avatars.githubusercontent.com/GustavoHoreste?s=100)](https://github.com/GustavoHoreste)
-- # Pedro Henrique Oliveira Marques (Matrícula: UC22103216) [![Pedro Henrique Oliveira Marques](https://avatars.githubusercontent.com/phxdablio?s=100)](https://github.com/phxdablio)
-- # Matheus (Matrícula: UC00000) [![Matheus](https://avatars.githubusercontent.com/matheus58?s=100)](https://github.com/matheus58)
-- # Nathalia (Matrícula: UC111111) [![Nathalia](https://avatars.githubusercontent.com/nathi-gs?s=100)](https://github.com/nathi-gs)
-
+- ### Maria Clara Fernandes Rangel (Matrícula: UC22102645)
+  [![Maria Clara Fernandes Rangel](https://avatars.githubusercontent.com/MariRangel04?s=100)](https://github.com/MariRangel04)
+- ### Gustavo Horestee Santos Barros (Matrícula: UC22102459)
+  [![Gustavo Horestee Santos Barros](https://avatars.githubusercontent.com/GustavoHoreste?s=100)](https://github.com/GustavoHoreste)
+- ### Pedro Henrique Oliveira Marques (Matrícula: UC22103216)
+  [![Pedro Henrique Oliveira Marques](https://avatars.githubusercontent.com/phxdablio?s=100)](https://github.com/phxdablio)
+- ### Matheus (Matrícula: UC00000)
+  [![Matheus](https://avatars.githubusercontent.com/matheus58?s=100)](https://github.com/matheus58)
+- ### Nathalia (Matrícula: UC111111)
+  [![Nathalia](https://avatars.githubusercontent.com/nathi-gs?s=100)](https://github.com/nathi-gs)
