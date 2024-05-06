@@ -38,8 +38,6 @@ Após clonar o repositório, pode ocorrer erro na hora de buildar, siga estes pa
 
 ## Colaboradores
 
-## Colaboradores
-
 - # Maria Clara Fernandes Rangel (Matrícula: UC22102645) [![Maria Clara Fernandes Rangel](https://avatars.githubusercontent.com/MariRangel04?s=100)](https://github.com/MariRangel04)
 - # Gustavo Horestee Santos Barros (Matrícula: UC22102459) [![Gustavo Horestee Santos Barros](https://avatars.githubusercontent.com/GustavoHoreste?s=100)](https://github.com/GustavoHoreste)
 - # Pedro Henrique Oliveira Marques (Matrícula: UC22103216) [![Pedro Henrique Oliveira Marques](https://avatars.githubusercontent.com/phxdablio?s=100)](https://github.com/phxdablio)
